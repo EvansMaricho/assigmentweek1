@@ -16,3 +16,14 @@ The purpose of this project is multifaceted:
 - **Aesthetic Improvement:** Plants are not just functional; they are also incredibly beautiful. They offer a natural way to decorate and enhance the visual appeal of any space.
 
 By engaging with this project, we hope to foster a community of plant enthusiasts who appreciate the beauty and benefits of ornamental plants.
+
+## Connect with PLANTSID on Social Media
+
+Stay updated and engaged with our latest projects, tips, and plant showcases by following us on social media. We regularly post updates and engaging content related to ornamental plants and their benefits.
+
+### Follow us on:
+
+- **Instagram:** [PLANTSID Instagram](https://instagram.com/plantsid)
+- **Facebook:** [PLANTSID Facebook](https://facebook.com/plantsid)
+
+By following our social media pages, you can stay connected with a community of plant enthusiasts, get inspired by creative plant arrangements, and learn more about how to care for your ornamental plants. Join us and be part of our green community!
