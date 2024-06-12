@@ -18,6 +18,7 @@ The purpose of this project is multifaceted:
 By engaging with this project, we hope to foster a community of plant enthusiasts who appreciate the beauty and benefits of ornamental plants.
 
 ## Connect with PLANTSID on Social Media
+![plantsid fix](https://github.com/EvansMaricho/assigmentweek1/assets/171814289/4b36d507-7204-431f-b9bb-a7b281bcf562)
 
 Stay updated and engaged with our latest projects, tips, and plant showcases by following us on social media. We regularly post updates and engaging content related to ornamental plants and their benefits.
 
