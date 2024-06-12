@@ -25,9 +25,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=evansmaricho&show_icons=true&locale=en" alt="evansmaricho" /></p>
 
 
-
-### I created this project to introduce the importance of ornamental plants in the home environment to help beautify the environment and Cultivation of ornamental plants is a cross-sector activity that creates growth in the economic chain, helps create jobs and increases people's income, especially in small and medium businesses like those in our area.
-
 ## About This Project
 
 Welcome to our ornamental plants project! This initiative is dedicated to promoting the aesthetic and environmental benefits of incorporating ornamental plants into our living spaces. Our goal is to educate and inspire individuals to beautify their homes and workplaces with a variety of ornamental plants.
