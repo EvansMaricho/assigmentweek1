@@ -1,7 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Evan Maricho</h1>
 <h3 align="center">I have been learning on RevoU on Software engineering program</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/3AyY.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evansmaricho&label=Profile%20views&color=0e75b6&style=flat" alt="evansmaricho" /> </p>
 
