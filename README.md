@@ -24,7 +24,7 @@ Stay updated and engaged with our latest projects, tips, and plant showcases by 
 
 ### Follow us on:
 
-- **Instagram:** [PLANTSID Instagram](https://instagram.com/plantsid)
+- **Instagram:** [PLANTSID Instagram](https://instagram.com/plantsid) 
 - **Facebook:** [PLANTSID Facebook](https://facebook.com/plantsid)
 
 By following our social media pages, you can stay connected with a community of plant enthusiasts, get inspired by creative plant arrangements, and learn more about how to care for your ornamental plants. Join us and be part of our green community!
